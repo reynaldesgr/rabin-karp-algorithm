@@ -4,7 +4,7 @@ def hash_value(offm, T, P, m, d, q):
     for i in range(0, m):
         p  = (d*p + ord(P[i])) % q
         print(T[i+offm])
-        t  = (d*t + ord(T[i+offm]))  % q 
+        t  = (d*t + ord(T[i+offm])) % q 
     return p, t
 
 """robin karp algorithm"""
