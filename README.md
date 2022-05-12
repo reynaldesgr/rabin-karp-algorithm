@@ -1,1 +1,1 @@
-# ``Rabi Karp Algorithm``
+# ``Rabin-Karp Algorithm``
